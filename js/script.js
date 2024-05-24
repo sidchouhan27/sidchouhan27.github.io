@@ -18,7 +18,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Data Engineer.", "Research Assistant.", "Student."],
+		strings: ["Eat", "Sleep", "Code();", "Repeat],
 		typeSpeed: 70,
 		loop: true,
 		startDelay: 1000,
